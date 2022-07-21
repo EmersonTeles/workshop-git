@@ -1,3 +1,3 @@
 function funcao() {
-  console.log("hello world");
+  console.log("f*ck mds");
 }
